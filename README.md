@@ -31,11 +31,11 @@ Project is created with:
 
 
 ## Acknowledegment
-This repository contains exercises from the course **Statistical Modeling (Course Code: Data.Stat.740)** offered at **Tampere University** in 2023. 
+This repository contains exercises and solutions from the course **Statistical Modeling (Course Code: Data.Stat.740)** offered at **Tampere University** in 2023. 
 
 https://www.tuni.fi/en/students-guide/curriculum/course-units/uta-ykoodi-48007?year=2023
 
-I would like to acknowledge **Prof. Jarkko Isotalo** for designing the course and providing valuable learning materials. The exercises and datasets in this repository are adapted upon based on my learnings from the course.
+I would like to acknowledge **Prof. Jarkko Isotalo** for designing the course and providing valuable learning materials related to statistical modeling of data. The exercises and datasets in this repository are adapted upon based on my learnings from the course.
 
 
 
