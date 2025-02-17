@@ -22,8 +22,9 @@ Project is created with:
 * survival
 
 ## Setup
-* Clone the repository: 
-      git clone https://github.com/your-repo/statistical-modeling.git
+* Clone the repository:
+  
+      git clone https://github.com/chowdhurynaziaenam/Statistical-Modeling.git
 
 * Open the project in RStudio
 * Install required packages
