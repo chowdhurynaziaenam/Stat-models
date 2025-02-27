@@ -4,7 +4,9 @@ A comprehensive repository containing exercise questions, datasets, and solution
 ## Table of Contents
 * [General info](#general-info)
 * [Technologies](#technologies)
+* [Libraries and packages](#libraries-and-packages)
 * [Setup](#setup)
+* [Acknowledgement](#acknowledgement)
 
 ## General info
 This repository provides statistical modeling concepts learnt from the course Statistical Modeling 1 (Data.Stat.740). The task includes understanding of Linear models, Nonlinear normal models, Nonnegative response models, Count data models, Categorical data models, and Survival data analysis and applying modern statistical modeling tools especially for regression and classification problems. It covers theory of generalized linear models in the case of gamma and other positive distributions. It further shows how to model count data by Poisson regression models and zero-inflated models.
