@@ -32,7 +32,7 @@ Project is created with:
 * Install required packages
 
 
-## Acknowledegment
+## Acknowledgement
 This repository contains statistical modeling concepts learnt from the course **Statistical Modeling (Course Code: Data.Stat.740)** offered at **Tampere University** in 2023. 
 
 https://www.tuni.fi/en/students-guide/curriculum/course-units/uta-ykoodi-48007?year=2023
